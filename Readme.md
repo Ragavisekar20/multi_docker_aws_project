@@ -45,10 +45,18 @@ Project Steps
 10. Test application in browser 
 
 EC2 Screenshot
+
 /home/kiaq-lap-225/Pictures/Screenshots/EC2.png
 
+<img width="1298" height="592" alt="EC2" src="https://github.com/user-attachments/assets/0a4260d3-1a2d-4c01-ba7e-e089aa68e41f" />
+
+
 Output Screenshot
+
 /home/kiaq-lap-225/Pictures/Screenshots/Multi-AWS.png
+
+<img width="1298" height="592" alt="Multi-AWS" src="https://github.com/user-attachments/assets/543e75cf-cb39-4050-8c8f-ea35c4418e0f" />
+
 
 Final Output
 
