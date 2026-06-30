@@ -1,6 +1,6 @@
-Dockerized Multi-Container Application on AWS EC2
+#Dockerized Multi-Container Application on AWS EC2
 
-Project Name
+#Project Name
 
 Dockerized Multi-Container Application Deployment on AWS EC2 with persistent storage
 
